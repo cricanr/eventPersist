@@ -1,0 +1,9 @@
+{"timestamp":1515609008,"userId":1123,"event":"2 hours of downtime occured due to the release of version 1.0.5 of the system"}
+{"timestamp":1515609008,"userId":1123,"event":"2 hours of downtime occured due to the release of version 1.0.5 of the system"}
+{"timestamp":1515609008,"userId":1123,"event":"2 hours of downtime occured due to the release of version 1.0.5 of the system"}
+{"timestamp":1515609008,"userId":1123,"event":"2 hours of downtime occured due to the release of version 1.0.5 of the system"}
+{"timestamp":1515609008,"userId":1123,"event":"2 hours of downtime occured due to the release of version 1.0.5 of the system"}
+{"timestamp":1515609008,"userId":1123,"event":"2 hours of downtime occured due to the release of version 1.0.5 of the system"}
+{"timestamp":1515609008,"userId":1123,"event":"2 hours of downtime occured due to the release of version 1.0.5 of the system"}
+{"timestamp":1515609008,"userId":1123,"event":"2 hours of downtime occured due to the release of version 1.0.5 of the system"}
+{"timestamp":1515609008,"userId":1123,"event":"2 hours of downtime occured due to the release of version 1.0.5 of the system"}
