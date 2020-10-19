@@ -13,6 +13,7 @@ As an example an event looks like:
    }
 ```
 
+This service receives over MQTT messages from this service: https://github.com/cricanr/eventReceive 
 Architecture & code notes: 
 ======
 Communication over TCP/IP using MQTT is done over: `tcp://localhost:1883` on topic: `event`.
